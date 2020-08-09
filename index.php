@@ -26,7 +26,7 @@
 				<div id="form">
 					<input type="text" id="Name" name="Name" placeholder="Name" required><br>
 					<input type="email" id="Email" name="Email" placeholder="Email" required><br>
-					<input type="submit" value="Send">
+					<input type="submit" value="Sex">
 				</div>
 			</form>
 		</div>
